@@ -1,4 +1,5 @@
 # Agenda
+
 ## Agenda de contatos - PHP e MySQL, projeto de avaliação
 * Autenticação do Usuário
 * Cadastro do Contato
@@ -6,6 +7,10 @@
 * Listagem dos Contatos
 * Busca dos Contatos
 * Função Sair
+
+## autenticação
+* usuário : Admin
+* senha: Admin
 
 ## base de dados
 * base de dados : agenda
