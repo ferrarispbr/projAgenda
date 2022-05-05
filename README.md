@@ -1,5 +1,5 @@
 # Agenda
-## Agenda de contatos - PHP e MySQL, projeto de avaliação,com as seguintes funções
+## Agenda de contatos - PHP e MySQL, projeto de avaliação
 * Autenticação do Usuário
 * Cadastro do Contato
 * Edição do Contato
