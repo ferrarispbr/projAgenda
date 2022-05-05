@@ -9,8 +9,8 @@
 * Função Sair
 
 ## autenticação
-* usuário : Admin
-* senha: Admin
+* usuário : admin
+* senha: admin
 
 ## base de dados
 * base de dados : agenda
